@@ -120,3 +120,9 @@ time, mark, audio, video {
     text-decoration: none;
     color: black;
 }
+
+.mLink:hover{
+    text-decoration: underline;
+    text-decoration-color: #0B2B9F;
+    color: #14f;
+}
