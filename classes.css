@@ -116,10 +116,13 @@ time, mark, audio, video {
     margin-bottom: 15px;
 }
 
+/*positioning*/
 .center{
     margin: 0 auto;
 }
 
+
+/*Links */
 .mLink{
     text-decoration: none;
     color: black;
@@ -129,4 +132,20 @@ time, mark, audio, video {
     text-decoration: underline;
     text-decoration-color: #0B2B9F;
     color: #14f;
+}
+
+/*Buttons*/
+.button{
+    display:inline-block;
+    font-weight:400;
+    color:#ffffff;
+    background-color: #0B2B9F;
+    text-align:center;
+    vertical-align:middle;
+}
+
+.button:hover{
+    background-color: #ffffff;
+    color: #0B2B9F;
+    border-color: #0B2B9F;
 }
