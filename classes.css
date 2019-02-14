@@ -180,3 +180,15 @@ time, mark, audio, video {
     color: #0B2B9F;
     border-color: #0B2B9F;
 }
+
+.text-right{
+    text-align: right;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.text-center{
+    text-align: center;
+}
