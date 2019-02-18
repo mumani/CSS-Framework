@@ -42,6 +42,21 @@ time, mark, audio, video {
     width: 25%;
 }
 
+@media screen and (max-width: 767px){
+    .row{
+        flex-direction: column;
+    }
+    .grid-6{
+        width: 100%;
+        text-align: center;
+    }
+
+    .grid-3{
+        width: 100%;
+        text-align: center;
+    }
+}
+
 
 /* Padding Classes*/
 .p-a5{
